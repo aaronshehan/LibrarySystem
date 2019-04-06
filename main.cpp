@@ -521,14 +521,6 @@ void search_book()
 
 int main()
 {
-	
-	// display student information
-	cout << "+----------------------------------------------------+" << endl;
-	cout << "|       Computer Science and Engineering             |" << endl;
-	cout << "|        CSCE 1030 - Computer Science I              |" << endl;
-	cout << "|  Aaron Shehan    ats0109    aaronshehan@my.unt.edu |" << endl;
-	cout << "+----------------------------------------------------+" << endl;
-	cout << endl;
 
 	int choice;
 	
